@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Typography, Container, Stack, Link } from '@mui/material';
+import { Box, Typography, Container, Stack } from '@mui/material';
 import { motion } from 'framer-motion';
 
 const topics = ["Technology", "Design", "AI", "Minimalism", "Dev", "Business", "Lifestyle"];
