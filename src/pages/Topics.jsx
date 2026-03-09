@@ -13,7 +13,7 @@ const categories = [
 ]
 
 const Topics = () => {
-  const theme = useTheme()
+  // const theme = useTheme()
   const [activeTopic, setActiveTopic] = useState('All')
 
   const filteredPosts =
